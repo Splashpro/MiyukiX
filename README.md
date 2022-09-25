@@ -8,7 +8,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/VenujASB/MiyukiXBot/graphs/commit-activity)
 [![Crowdin](https://badges.crowdin.net/szrosebot/localized.svg)]()
 <p align='left'>
- <a href="https://heroku.com/deploy?template=https://github.com/VenujASB/MiyukiXBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
+ <a href="https://heroku.com/deploy?template=https://github.com/Splashpro/MiyukiX"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
 </p>
 
 

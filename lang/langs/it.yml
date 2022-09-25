@@ -2,7 +2,7 @@ name : Italiano
 
 
 #menu - menu.py
-menu : "Miyuki ✨ è stato creato il **12 aprile 2022**. Attualmente stiamo sviluppando e mantenendo **rosebot** e crediti per **supun**, utilizzando solo la libreria **Pyrogram**.\n\n• **Creator** : [Venuja Sadew](https:/ /t.me/VenujaST)\n• **Lingua** : [Python 3](https://www.python.org/)\n• **Database** : [Mongo db](https:// cloud.mongodb.com/)\n• **Server**: [Heroku](https://heroku.com/)\n• **Versione build**: `1.0.9`\n\n@TheMiyukiXBot"
+menu : "Miyuki ✨ è stato creato il **12 aprile 2022**. Attualmente stiamo sviluppando e mantenendo **rosebot** e crediti per **Venuja**, utilizzando solo la libreria **Pyrogram**.\n\n• **Creator** : [Splash Pro==Nikil Nikesh](https:/ /t.me/Splash_Pro)\n• **Lingua** : [Python 3](https://www.python.org/)\n• **Database** : [Mongo db](https:// cloud.mongodb.com/)\n• **Server**: [Heroku](https://heroku.com/)\n• **Versione build**: `1.0.9`\n\n@TheMiyukiXBot"
 back : "« Indietro"
 
 #main - main.py

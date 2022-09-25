@@ -9,7 +9,7 @@ main1 : " Hello There ! I'm {}  \n\nAn  advanced telegram Group management Bot F
 main2 : "**PM me if you have any questions how to use me!**"
 main3 : "Click here"
 main4 : "Click on the below button to get help about {}"
-main5 : "**Welcome to help menu**\n\nI'm a group management bot with some useful features.\nYou can choose an option below, by clicking a button.\nIf you have any bugs or questions on how to use me, \nContact me [Splash ](https://t.me/Splash_Pro), or head to @MiyukiBotSupport.\n\n**All commands can be used with the following: / **"
+main5 : "**Welcome to help menu**\n\nI'm a group management bot with some useful features.\nYou can choose an option below, by clicking a button.\nIf you have any bugs or questions on how to use me, \nContact me [Splash ](https://t.me/Splash_Pro), or head to https://t.me/acobot_Team.\n\n**All commands can be used with the following: / **"
 main6 : "Here is the help for **{}**"
 
 #plugin - admin.py

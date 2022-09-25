@@ -91,10 +91,10 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
         [
            InlineKeyboardButton(
-                text="💫 Miyuki News", url="https://t.me/MiyukiBotUpdates"
+                text="💫 Miyuki News", url="https://t.me/ACOBotsUpdates"
             ),
             InlineKeyboardButton(
-                text="👥 Support Group", url="https://t.me/MiyukiBotSupport"
+                text="👥 Support Group", url="https://t.me/acobot_Team"
             ),
         ],
         [

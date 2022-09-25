@@ -1,7 +1,7 @@
 ---
 name: ඉංග්‍රීසි
 #menu - menu.py
-menu: "Miyuki ✨ නිර්මාණය කරන ලද්දේ **අප්‍රේල් 12, 2022**. අපි දැනට **රෝස්බෝට්** ගේ ප්ලගින මගින් සංවර්ධනය කර පවත්වාගෙන යමින් සිටිමු, **Pyrogram** පුස්තකාලය පමණක් භාවිතා කරමින්.\n\n• **නිර්මාතෘ** : [Splash Pro==Nikil Nikesh ](https:/ /t.me/Splash_Pro)\n• **භාෂාව** : [Python 3](https://www.python.org/)\n• **දත්ත සමුදාය** : [Mongo db](https:// cloud.mongodb.com/)\n• **සේවාදායකය** : [Heroku](https://heroku.com/)\n• **Build Version** : `1.0.9`\n\n@TheMiyukiXBot"
+menu: "Miyuki ✨ නිර්මාණය කරන ලද්දේ **අප්‍රේල් 12, 2022**. අපි දැනට **රෝස්බෝට්** ගේ ප්ලගින මගින් සංවර්ධනය කර පවත්වාගෙන යමින් සිටිමු, **Pyrogram** පුස්තකාලය පමණක් භාවිතා කරමින්.\n\n• **නිර්මාතෘ** : [Splash Pro==Nikil Nikesh ](https:/ /t.me/Splash_Pro)\n• **භාෂාව** : [Python 3](https://www.python.org/)\n• **දත්ත සමුදාය** : [Mongo db](https:// cloud.mongodb.com/)\n• **සේවාදායකය** : [Heroku](https://heroku.com/)\n• **Build Version** : `1.0.9`"
 back: "« ආපසු"
 #main - main.py
 main1: " හෙලෝ ! මම {}\n\nඔබේ උපකාර සඳහා ටෙලිග්‍රැම් සමූහ කළමනාකරණ‍යට නිර්මාණය කරන ලද බොට් කෙනෙකි.\nඔබට ඔබේ කණ්ඩායම් ආරක්ෂා කර ඔබේ සියලු අවශ්‍යතා  ඉටු කරගැනිමට සුදුසු වේ."

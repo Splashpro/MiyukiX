@@ -55,8 +55,8 @@ async def start_bot():
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|         (C) 2022 by @VenujaST               | 
-|          Greetings from VenujaST :)         |
+|         (C) 2022 by @Splashpro              | 
+|          Greetings from Splashpro  :)       |
 |_____________________________________________|  
                                                                                                
     """)

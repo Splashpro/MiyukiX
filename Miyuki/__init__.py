@@ -12,7 +12,7 @@ from config.config import *
 import pymongo
 
 
-SUPPORT_GROUP = 'https://t.me/MiyukiBotSupport' #If you Don't Know Codes Any error Fixing method please Don't change this.... ):
+SUPPORT_GROUP = 'https://t.me/acobot_Team' #If you Don't Know Codes Any error Fixing method please Don't change this.... ):
 SUDOERS = SUDO_USERS_ID
 LOG_GROUP_ID = LOG_GROUP_ID
 MOD_LOAD = []
@@ -20,7 +20,7 @@ MOD_NOLOAD = []
 bot_start_time = time.time()
 DB_URI = BASE_DB #all of gm DATA
 MONGO_URL = MONGO_URL
-OWNER_ID = 1984415770
+OWNER_ID = 5514111111
 
 
 myclient = pymongo.MongoClient(DB_URI)
